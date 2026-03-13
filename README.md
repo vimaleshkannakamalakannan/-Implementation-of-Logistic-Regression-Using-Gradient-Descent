@@ -21,9 +21,6 @@ Developed by: Vimalesh kanna MK
 RegisterNumber:  212225230303
 
 /*
-Program to implement the the Logistic Regression Using Gradient Descent.
-Developed by: THARUN DP
-RegisterNumber:25018717
 import numpy as np
 import pandas as pd
 data = pd.read_csv("/mnt/data/Placement_Data.csv")
